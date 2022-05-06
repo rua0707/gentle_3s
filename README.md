@@ -25,13 +25,13 @@
 
 승겸 : 0원
 재우 : 0원
-성우 : 1000원
+성우 : 0원
 
 ### 문제집
 
 2022.5.3 ~ 2022.5.9
 
-- https://www.acmicpc.net/workbook/view/459 50문제 중 최소 10문제 이상
+- https://www.acmicpc.net/workbook/view/459 50문제 중 최소 3문제 이상
 
 승겸 : 0문제 <br/>
 재우 : 0문제 <br/>
