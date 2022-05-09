@@ -91,17 +91,11 @@
     <tr height="50px">
         <td align="center">
             <a href="https://github.com/rua0707">:octocat: GitHub</a>
-            <br />
-            <a href="./coodingpenguin">:memo: 푼 문제들</a>
         </td>
         <td align="center">
             <a href="https://github.com/sungwooochoi">:octocat: GitHub</a>
-            <br />
-            <a href="./sally">:memo: 푼 문제들</a>
         <td align="center">
             <a href="https://github.com/JAEWOOSUN">:octocat: GitHub</a>
-            <br />
-            <a href="./opijae">:memo: 푼 문제들</a>
         </td>
     </tr>
 </table>
