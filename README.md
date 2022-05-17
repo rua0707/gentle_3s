@@ -64,7 +64,8 @@
 | :------------------: | :---------------------------------------------------------------------------: | :-------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
 | **2022.5.3 - 2022.5.9** |    [Python 배우기 (1~50)](https://www.acmicpc.net/workbook/view/459)                                                                                                                                                           ||| 
 | **2022.5.10 - 2022.5.17** |  [별 찍기 - 3](https://www.acmicpc.net/problem/2440)  |    [피보나치 수](https://www.acmicpc.net/problem/2747)     |       [괄호](https://www.acmicpc.net/problem/9012)        |
-| **2022.5.X - 2022.5.X** |  [예제 1](https://www.acmicpc.net/problem/2440)  |    [예제 2](https://www.acmicpc.net/problem/2747)     |       [예제 3](https://www.acmicpc.net/problem/9012)        |
+| **2022.5.18 - 2022.5.24** |  [쉽게 푸는 문제](https://www.acmicpc.net/problem/1292)  |    [접미사 배열](https://www.acmicpc.net/problem/11656)     |       [문자열](https://www.acmicpc.net/problem/1120)        |
+| **2022.5.X - 2022.5.X** |  [예제 1](https://www.acmicpc.net/problem/1292)  |    [예제 2](https://www.acmicpc.net/problem/2747)     |       [예제 3](https://www.acmicpc.net/problem/9012)        |
 
 <br/><br/>
 
