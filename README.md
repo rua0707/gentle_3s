@@ -43,11 +43,11 @@
 <table>
   <tr>
     <td width="100px" align="center">승겸</td>
-    <td width="150px" align="right">500원</td>
+    <td width="150px" align="right">1000원</td>
   </tr>
   <tr>
     <td width="100px" align="center">성우</td>
-    <td width="150px" align="right">0원</td>
+    <td width="150px" align="right">1000원</td>
   </tr>
   <tr>
     <td width="100px" align="center">재우</td>
@@ -66,6 +66,7 @@
 | **2022.5.10 - 2022.5.17** |  [별 찍기 - 3](https://www.acmicpc.net/problem/2440)  |    [피보나치 수](https://www.acmicpc.net/problem/2747)     |       [괄호](https://www.acmicpc.net/problem/9012)        |
 | **2022.5.18 - 2022.5.24** |  [쉽게 푸는 문제](https://www.acmicpc.net/problem/1292)  |    [접미사 배열](https://www.acmicpc.net/problem/11656)     |       [문자열](https://www.acmicpc.net/problem/1120)        |
 | **2022.5.26 - 2022.5.31** |  [스택](https://www.acmicpc.net/problem/10828)  |    [체스판 다시 칠하디](https://www.acmicpc.net/problem/1018)     |       [-](https://www.acmicpc.net/problem/9012)        |
+| **2022.6.1 - 2022.6.8** |  [덩치](https://www.acmicpc.net/problem/7568)  |    [방 번호](https://www.acmicpc.net/problem/1475)     |       [나무 자르기](https://www.acmicpc.net/problem/2805)        |
 | **2022.6.X - 2022.6.X** |  [예제 1](https://www.acmicpc.net/problem/1292)  |    [예제 2](https://www.acmicpc.net/problem/2747)     |       [예제 3](https://www.acmicpc.net/problem/9012)        |
 
 <br/><br/>
