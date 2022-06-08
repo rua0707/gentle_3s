@@ -43,7 +43,7 @@
 <table>
   <tr>
     <td width="100px" align="center">승겸</td>
-    <td width="150px" align="right">1000원</td>
+    <td width="150px" align="right">1500원</td>
   </tr>
   <tr>
     <td width="100px" align="center">성우</td>
