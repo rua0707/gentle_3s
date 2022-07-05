@@ -47,7 +47,7 @@
   </tr>
   <tr>
     <td width="100px" align="center">성우</td>
-    <td width="150px" align="right">2500원</td>
+    <td width="150px" align="right">3500원</td>
   </tr>
   <tr>
     <td width="100px" align="center">재우</td>
@@ -71,6 +71,7 @@
 | **2022.6.15 - 2022.6.21** |  [RGB거리](https://www.acmicpc.net/problem/1149)  |    [GCD합](https://www.acmicpc.net/problem/9613)     |       [바이러스](https://www.acmicpc.net/problem/2606)        |
 | **2022.6.22 - 2022.7.5** |  [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)  |    [단어 뒤집기 2](https://www.acmicpc.net/problem/17413)     |       [유기농 배추](https://www.acmicpc.net/problem/1012)        |
 | **2022.6.22 - 2022.7.5** |  [구간 합 구하기 4](https://www.acmicpc.net/problem/11659)  |    [트리 순회](https://www.acmicpc.net/problem/1991)     |       [-](https://www.acmicpc.net/problem/9012)        |
+| **2022.7.6 - 2022.7.11** |  [날짜 계산](https://www.acmicpc.net/problem/1476)  |    [퇴사](https://www.acmicpc.net/problem/14501)     |       [괄호의 값](https://www.acmicpc.net/problem/2504)        |
 
 <br/><br/>
 
