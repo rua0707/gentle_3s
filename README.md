@@ -75,6 +75,7 @@
 | **2022.6.22 - 2022.7.5** |  [구간 합 구하기 4](https://www.acmicpc.net/problem/11659)  |    [트리 순회](https://www.acmicpc.net/problem/1991)     |       [-](https://www.acmicpc.net/problem/9012)        |
 | **2022.7.6 - 2022.7.11** |  [날짜 계산](https://www.acmicpc.net/problem/1476)  |    [퇴사](https://www.acmicpc.net/problem/14501)     |       [괄호의 값](https://www.acmicpc.net/problem/2504)        |
 | **2022.7.26 - 2022.8.2** |  [수 정렬하기](https://www.acmicpc.net/problem/2750)  |    [분해합](https://www.acmicpc.net/problem/2231)     |       [소수](https://www.acmicpc.net/problem/2581)        |
+| **2022.8.3 - 2022.8.9** |  [풍선 터트리기](https://www.acmicpc.net/problem/2346)  |    [N번째 큰수](https://www.acmicpc.net/problem/2075)     |       [숫자 야구](https://www.acmicpc.net/problem/2503)        |
 
 
 ### 재우
@@ -92,6 +93,7 @@
 | **2022.6.22 - 2022.7.5** |  [구간 합 구하기 4](https://www.acmicpc.net/problem/11659)  |    [트리 순회](https://www.acmicpc.net/problem/1991)     |       [-](https://www.acmicpc.net/problem/9012)        |
 | **2022.7.6 - 2022.7.11** |  [날짜 계산](https://www.acmicpc.net/problem/1476)  |    [퇴사](https://www.acmicpc.net/problem/14501)     |       [괄호의 값](https://www.acmicpc.net/problem/2504)        |
 | **2022.7.26 - 2022.8.2** |  [게임개발](https://www.acmicpc.net/problem/1516)  |    [경제적 전염](https://www.acmicpc.net/problem/18405)     |       [스위치](https://www.acmicpc.net/problem/1395)        |
+| **2022.8.3 - 2022.8.9** |  [동전뒤집기](https://www.acmicpc.net/problem/1285)  |    [상어 중학교](https://www.acmicpc.net/problem/21609)     |       [공항](https://www.acmicpc.net/problem/10775)        |
 
 
 <br/><br/>
