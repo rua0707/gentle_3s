@@ -76,6 +76,7 @@
 | **2022.7.6 - 2022.7.11** |  [날짜 계산](https://www.acmicpc.net/problem/1476)  |    [퇴사](https://www.acmicpc.net/problem/14501)     |       [괄호의 값](https://www.acmicpc.net/problem/2504)        |
 | **2022.7.26 - 2022.8.2** |  [수 정렬하기](https://www.acmicpc.net/problem/2750)  |    [분해합](https://www.acmicpc.net/problem/2231)     |       [소수](https://www.acmicpc.net/problem/2581)        |
 | **2022.8.3 - 2022.8.9** |  [풍선 터트리기](https://www.acmicpc.net/problem/2346)  |    [N번째 큰수](https://www.acmicpc.net/problem/2075)     |       [숫자 야구](https://www.acmicpc.net/problem/2503)        |
+| **2022.8.10 - 2022.8.16** |  [단어 정렬](https://www.acmicpc.net/problem/1181)  |    [계단 오르기](https://www.acmicpc.net/problem/2579)     |       [좋은 단어](https://www.acmicpc.net/problem/3986)        |
 
 
 ### 재우
