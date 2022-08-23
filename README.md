@@ -47,11 +47,11 @@
   </tr>
   <tr>
     <td width="100px" align="center">성우</td>
-    <td width="150px" align="right">4000원</td>
+    <td width="150px" align="right">4500원</td>
   </tr>
   <tr>
     <td width="100px" align="center">재우</td>
-    <td width="150px" align="right">4500원</td>
+    <td width="150px" align="right">5000원</td>
   </tr>
 </table>
 <br/><br/>   
