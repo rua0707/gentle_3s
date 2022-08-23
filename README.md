@@ -77,6 +77,7 @@
 | **2022.7.26 - 2022.8.2** |  [수 정렬하기](https://www.acmicpc.net/problem/2750)  |    [분해합](https://www.acmicpc.net/problem/2231)     |       [소수](https://www.acmicpc.net/problem/2581)        |
 | **2022.8.3 - 2022.8.9** |  [풍선 터트리기](https://www.acmicpc.net/problem/2346)  |    [N번째 큰수](https://www.acmicpc.net/problem/2075)     |       [숫자 야구](https://www.acmicpc.net/problem/2503)        |
 | **2022.8.10 - 2022.8.23** |  [단어 정렬](https://www.acmicpc.net/problem/1181)  |    [계단 오르기](https://www.acmicpc.net/problem/2579)     |       [좋은 단어](https://www.acmicpc.net/problem/3986)        |
+| **2022.8.24 - 2022.8.30** |  [그룹 단어 체커](https://www.acmicpc.net/problem/1316)  |    [계단 오르기](https://www.acmicpc.net/problem/2579)     |       [-2진수](https://www.acmicpc.net/problem/2089)        |
 
 
 ### 재우
@@ -96,6 +97,7 @@
 | **2022.7.26 - 2022.8.2** |  [게임개발](https://www.acmicpc.net/problem/1516)  |    [경제적 전염](https://www.acmicpc.net/problem/18405)     |       [스위치](https://www.acmicpc.net/problem/1395)        |
 | **2022.8.3 - 2022.8.9** |  [동전뒤집기](https://www.acmicpc.net/problem/1285)  |    [상어 중학교](https://www.acmicpc.net/problem/21609)     |       [공항](https://www.acmicpc.net/problem/10775)        |
 | **2022.8.10 - 2022.8.23** |  [이진검색트리](https://www.acmicpc.net/problem/5639)  |    [동전뒤집기](https://www.acmicpc.net/problem/1285)     |       [단어정렬](https://www.acmicpc.net/problem/1181)        |
+| **2022.8.24 - 2022.8.30** |  [개똥벌레](https://www.acmicpc.net/problem/3020)  |    [동전뒤집기](https://www.acmicpc.net/problem/1285)     |       [탈옥](https://www.acmicpc.net/problem/9376)        |
 
 
 <br/><br/>
