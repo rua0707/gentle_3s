@@ -78,7 +78,7 @@
 | **2022.8.3 - 2022.8.9** |  [풍선 터트리기](https://www.acmicpc.net/problem/2346)  |    [N번째 큰수](https://www.acmicpc.net/problem/2075)     |       [숫자 야구](https://www.acmicpc.net/problem/2503)        |
 | **2022.8.10 - 2022.8.23** |  [단어 정렬](https://www.acmicpc.net/problem/1181)  |    [계단 오르기](https://www.acmicpc.net/problem/2579)     |       [좋은 단어](https://www.acmicpc.net/problem/3986)        |
 | **2022.8.24 - 2022.8.30** |  [그룹 단어 체커](https://www.acmicpc.net/problem/1316)  |    [계단 오르기](https://www.acmicpc.net/problem/2579)     |       [-2진수](https://www.acmicpc.net/problem/2089)        |
-
+| **2022.8.25 - 2022.9.6** |  [듣보잡](https://www.acmicpc.net/problem/1764)  |    [보물](https://www.acmicpc.net/problem/1026)     |       [유기농 배추](https://www.acmicpc.net/problem/1012)        |
 
 ### 재우
 
