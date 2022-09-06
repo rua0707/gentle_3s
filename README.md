@@ -98,7 +98,7 @@
 | **2022.8.3 - 2022.8.9** |  [동전뒤집기](https://www.acmicpc.net/problem/1285)  |    [상어 중학교](https://www.acmicpc.net/problem/21609)     |       [공항](https://www.acmicpc.net/problem/10775)        |
 | **2022.8.10 - 2022.8.23** |  [이진검색트리](https://www.acmicpc.net/problem/5639)  |    [동전뒤집기](https://www.acmicpc.net/problem/1285)     |       [단어정렬](https://www.acmicpc.net/problem/1181)        |
 | **2022.8.24 - 2022.8.30** |  [개똥벌레](https://www.acmicpc.net/problem/3020)  |    [동전뒤집기](https://www.acmicpc.net/problem/1285)     |       [탈옥](https://www.acmicpc.net/problem/9376)        |
-| **2022.8.31 - 2022.9.6** |  [~~개똥벌레~~](https://www.acmicpc.net/problem/3020)  |    [기업투자](https://www.acmicpc.net/problem/2662)     |       [탈옥](https://www.acmicpc.net/problem/9376)        |
+| **2022.8.31 - 2022.9.6** |  [~~개똥벌레~~](https://www.acmicpc.net/problem/3020)  |    [~~기업투자~~](https://www.acmicpc.net/problem/2662)     |       [탈옥](https://www.acmicpc.net/problem/9376)        |
 
 
 <br/><br/>
