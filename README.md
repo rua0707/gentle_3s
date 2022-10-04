@@ -43,15 +43,15 @@
 <table>
   <tr>
     <td width="100px" align="center">승겸</td>
-    <td width="150px" align="right">7,000원</td>
+    <td width="150px" align="right">8,000원</td>
   </tr>
   <tr>
     <td width="100px" align="center">성우</td>
-    <td width="150px" align="right">6,000원</td>
+    <td width="150px" align="right">7,000원</td>
   </tr>
   <tr>
     <td width="100px" align="center">재우</td>
-    <td width="150px" align="right">15,000원</td>
+    <td width="150px" align="right">17,000원</td>
   </tr>
 </table>
 <br/><br/>   
@@ -83,6 +83,7 @@
 | **2022.9.14 - 2022.9.20** |  [ABCDE](https://www.acmicpc.net/problem/13023)  |    [톱니바퀴](https://www.acmicpc.net/problem/14891)     |       [카드역배치](https://www.acmicpc.net/problem/10804)        |
 | **2022.9.21 - 2022.9.27** |  [영역구하기](https://www.acmicpc.net/problem/2583)  |    [모든순열](https://www.acmicpc.net/problem/10974)     |       [생일](https://www.acmicpc.net/problem/5635)        |
 | **2022.9.28 - 2022.10.4** |  [부등호](https://www.acmicpc.net/problem/2529)  |    [적록색약](https://www.acmicpc.net/problem/10026)     |       [킹](https://www.acmicpc.net/problem/1063)        |
+| **2022.10.05 - 2022.10.11** |  [양](https://www.acmicpc.net/problem/3184)  |    [거북이](https://www.acmicpc.net/problem/8911)     |       [지구 온난화](https://www.acmicpc.net/problem/5212)        |
 
 ### 재우
 
@@ -105,6 +106,7 @@
 | **2022.8.31 - 2022.9.6** |  [~~개똥벌레~~](https://www.acmicpc.net/problem/3020)  |    [~~기업투자~~](https://www.acmicpc.net/problem/2662)     |       [탈옥](https://www.acmicpc.net/problem/9376)        |
 | **2022.9.7 - 2022.9.27** |  [종이조각](https://www.acmicpc.net/problem/14391)  |    [어른상어](https://www.acmicpc.net/problem/19237)     |       [도로 네트워크](https://www.acmicpc.net/problem/3176)        |
 | **2022.9.28 - 2022.10.4** |  [종이조각](https://www.acmicpc.net/problem/14391)  |    [미네랄](https://www.acmicpc.net/problem/2933)     |       [도로 네트워크](https://www.acmicpc.net/problem/3176)        |
+| **2022.10.05 - 2022.10.11** |  [양](https://www.acmicpc.net/problem/3184)  |    [거북이](https://www.acmicpc.net/problem/8911)     |       [지구 온난화](https://www.acmicpc.net/problem/5212)        |
 
 
 <br/><br/>
