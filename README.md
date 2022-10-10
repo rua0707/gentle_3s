@@ -106,7 +106,7 @@
 | **2022.8.31 - 2022.9.6** |  [~~개똥벌레~~](https://www.acmicpc.net/problem/3020)  |    [~~기업투자~~](https://www.acmicpc.net/problem/2662)     |       [탈옥](https://www.acmicpc.net/problem/9376)        |
 | **2022.9.7 - 2022.9.27** |  [종이조각](https://www.acmicpc.net/problem/14391)  |    [어른상어](https://www.acmicpc.net/problem/19237)     |       [도로 네트워크](https://www.acmicpc.net/problem/3176)        |
 | **2022.9.28 - 2022.10.4** |  [종이조각](https://www.acmicpc.net/problem/14391)  |    [미네랄](https://www.acmicpc.net/problem/2933)     |       [도로 네트워크](https://www.acmicpc.net/problem/3176)        |
-| **2022.10.05 - 2022.10.11** |  [양](https://www.acmicpc.net/problem/3184)  |    [거북이](https://www.acmicpc.net/problem/8911)     |       [지구 온난화](https://www.acmicpc.net/problem/5212)        |
+| **2022.10.05 - 2022.10.11** |  [~~양~~](https://www.acmicpc.net/problem/3184)  |    [거북이](https://www.acmicpc.net/problem/8911)     |       [지구 온난화](https://www.acmicpc.net/problem/5212)        |
 
 
 <br/><br/>
