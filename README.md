@@ -43,17 +43,20 @@
 <table>
   <tr>
     <td width="100px" align="center">승겸</td>
-    <td width="150px" align="right">8,000원</td>
+    <td width="150px" align="right">0원</td>
   </tr>
   <tr>
     <td width="100px" align="center">성우</td>
-    <td width="150px" align="right">9,000원</td>
+    <td width="150px" align="right">0원</td>
   </tr>
   <tr>
     <td width="100px" align="center">재우</td>
-    <td width="150px" align="right">19,000원</td>
+    <td width="150px" align="right">0원</td>
   </tr>
 </table>
+
+* 정산 : 매달 1일
+* 회계 : 성우
 <br/><br/>   
 
 
@@ -85,6 +88,7 @@
 | **2022.9.28 - 2022.10.4** |  [부등호](https://www.acmicpc.net/problem/2529)  |    [적록색약](https://www.acmicpc.net/problem/10026)     |       [킹](https://www.acmicpc.net/problem/1063)        |
 | **2022.10.05 - 2022.10.11** |  [양](https://www.acmicpc.net/problem/3184)  |    [거북이](https://www.acmicpc.net/problem/8911)     |       [지구 온난화](https://www.acmicpc.net/problem/5212)        |
 | **2022.10.12 - 2022.10.18** |  [막대기](https://www.acmicpc.net/problem/1094)  |    [바닥 장식](https://www.acmicpc.net/problem/1388)     |       [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)        |
+| **2022.11.1 - 2022.11.8** |  [섬의 개수](https://www.acmicpc.net/problem/4963)  |    [수열](https://www.acmicpc.net/problem/2559)     |       [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)        |
 
 ### 재우
 
@@ -109,6 +113,7 @@
 | **2022.9.28 - 2022.10.4** |  [종이조각](https://www.acmicpc.net/problem/14391)  |    [미네랄](https://www.acmicpc.net/problem/2933)     |       [도로 네트워크](https://www.acmicpc.net/problem/3176)        |
 | **2022.10.05 - 2022.10.11** |  [~~양~~](https://www.acmicpc.net/problem/3184)  |    [거북이](https://www.acmicpc.net/problem/8911)     |       [지구 온난화](https://www.acmicpc.net/problem/5212)        |
 | **2022.10.12 - 2022.10.18** |  [막대기](https://www.acmicpc.net/problem/1094)  |    [바닥 장식](https://www.acmicpc.net/problem/1388)     |       [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)        |
+| **2022.11.1 - 2022.11.8** |  [섬의 개수](https://www.acmicpc.net/problem/4963)  |    [수열](https://www.acmicpc.net/problem/2559)     |       [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)        |
 
 
 
