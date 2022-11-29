@@ -51,7 +51,7 @@
   </tr>
   <tr>
     <td width="100px" align="center">재우</td>
-    <td width="150px" align="right">8,000원</td>
+    <td width="150px" align="right">10,000원</td>
   </tr>
 </table>
 
@@ -92,6 +92,7 @@
 | **2022.11.9 - 2022.11.15** |  [다리 놓기](https://www.acmicpc.net/problem/1010)  |    [Four Squares](https://www.acmicpc.net/problem/17626)     |       [물병](https://www.acmicpc.net/problem/1052)        |
 | **2022.11.16 - 2022.11.22** |  [495. Teemo Attacking](https://leetcode.com/problems/teemo-attacking)  |    [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885)     |       [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)        |
 | **2022.11.23 - 2022.11.29** |  [112. Path Sum](https://leetcode.com/problems/path-sum/)  |    [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)     |       [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)        |
+| **2022.11.30 - 2022.12.6** |  [38. Count and Say](https://leetcode.com/problems/count-and-say/)  |    [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)     |       [종이의 개수](https://www.acmicpc.net/problem/1780)        |
 
 
 ### 재우
@@ -121,6 +122,7 @@
 | **2022.11.9 - 2022.11.15** |  [다리 놓기](https://www.acmicpc.net/problem/1010)  |    [Four Squares](https://www.acmicpc.net/problem/17626)     |       [물병](https://www.acmicpc.net/problem/1052)        |
 | **2022.11.16 - 2022.11.22** |  [495. Teemo Attacking](https://leetcode.com/problems/teemo-attacking)  |    [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885)     |       [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)        |
 | **2022.11.23 - 2022.11.29** |  [112. Path Sum](https://leetcode.com/problems/path-sum/)  |    [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)     |       [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)        |
+| **2022.11.30 - 2022.12.6** |  [38. Count and Say](https://leetcode.com/problems/count-and-say/)  |    [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)     |       [종이의 개수](https://www.acmicpc.net/problem/1780)        |
 
 
 
